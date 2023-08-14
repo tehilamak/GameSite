@@ -1,0 +1,58 @@
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\אתר משחקים.dll.config
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\אתר משחקים.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\אתר משחקים.pdb
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csc.exe
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csc.exe.config
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csc.rsp
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csi.exe
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csi.exe.config
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\csi.rsp
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.AppContext.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Console.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Net.Http.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\vbc.exe
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\vbc.exe.config
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\vbc.rsp
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\obj\Debug\אתר משחקים.csproj.AssemblyReference.cache
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\obj\Debug\אתר משחקים.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\obj\Debug\אתר משחקים.dll
+C:\Users\Yoga\Desktop\תהילה\שעורי בית JS\אתר משחקים\אתר משחקים\obj\Debug\אתר משחקים.pdb

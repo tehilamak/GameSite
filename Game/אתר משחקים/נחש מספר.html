@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+    <link href="נחש מספר.css" rel="stylesheet" />
+
+</head>
+<body>
+    <header>
+        <p>המשחקים שלנו</p>
+        <p>מחירון</p>
+        <p>הזמן משחק</p>
+        <p>רכישת שובר למשחק</p>
+        <p>FAQ</p>
+        <p>צור קשר</p>
+        <p><a href="דף הבית .html">דף הבית</a></p>
+    </header>
+    <main id="main">
+        <div id="game">
+            <div>לפניך משחק נחש מספר</div>
+            <div>טווח הניחושים הינו בין 1-300</div>
+            <input type="button" value="התחל משחק חדש רמה א-עד 100" onclick="start(1)" id="newgame" />
+            <input type="button" value="התחל משחק חדש רמה ב -עד 200" onclick="start(2)" id="newgame" />
+            <input type="button" value="התחל משחק חדש רמה ג- עד 300" onclick="start(3)" id="newgame" />
+            <br />
+            <input type="number" id="try" />
+            <input type="button" value="נחש" onclick="guess()" max="100" min="1" />
+            <div id="answer"></div>
+            <div>:הניחושים שלך</div>
+            <div id="arr"></div>
+
+        </div>
+        <img src="pictures/תמונה2.jpg" id="backgraund"/>
+       
+    </main>
+
+    <main id="main2">
+        <div class="play">
+            <img src="pictures/המן.png" />
+
+            <div>
+
+                <div>
+                    משחק המן תלוי
+                    <br />
+                    גלו את המילה הנבחרת
+                    <br />
+
+                    <a href="המן תלוי.HTML">למשחק לחץ כאן<<</a>
+                </div>
+            </div>
+        </div>
+        <div class="play">
+            <img src="pictures/בול.png" />
+
+            <div>
+
+                <div>
+                    משחק בול פגיעה
+                    <br />
+                    גלו את הצבעים הנבחרים
+                    <br />
+
+                    <a href="בול פגיעה.html">למשחק לחץ כאן<<</a>
+                </div>
+            </div>
+        </div>
+        <div class="play">
+            <img src="pictures/סימן שאלה.png" />
+            <div>
+
+                <div>
+
+
+
+                    משחק נחש מספר
+                    <br />
+                    נחש את המספר הנבחר
+                    <br />
+                    <a href="נחש מספר.html">למשחק לחץ כאן<<</a>
+
+                </div>
+            </div>
+        </div>
+        <div class="play">
+            <img src="pictures/מח.png" />
+
+
+            <div>
+
+                <div>
+                    משחק זיכרון צבעים
+                    <br />
+
+                    גלה את הזוגות התואמים
+                    <br />
+                    <a href="זכרון.html">למשחק לחץ כאן<<</a>
+
+                </div>
+            </div>
+        </div>
+
+    </main>
+    <footer>
+        <br />
+        <p> כל הזכויות שמורות, 2007-2021| אין להעתיק. לשכפל. להפיץ. לצלם, את כל האתר או חלקים ממנו בשום אופן שהוא פרטיות, אחראיות ותנאי שימוש באתר @</p>
+    </footer>
+   
+
+
+    <script src="נחש מספר.js"></script>
+</body>
+</html>
